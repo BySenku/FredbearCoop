@@ -117,3 +117,6 @@ HOST_IP = "26.xx.xx.xx",
 | Le jeu crashe au lancement | Vérifie que `SplitScreenMod : 0` est bien dans mods.txt. |
 | On ne se voit pas | Vérifie les IP : chacun tape l'IP de l'**autre** dans le relais, et le client met celle de l'hôte dans config.lua. |
 | PC faible | Dans config.lua, mets `TICK_MS = 100,` et `DISCOVER_S = 15,`. Baisse les graphismes. |
+
+
+c'est mon premier projet alors soyez indulgent please
